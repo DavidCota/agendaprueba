@@ -1,7 +1,7 @@
 <?php
 
 require 'conexion.php';
-session_start();
+
 
 if($_POST){
 
